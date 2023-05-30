@@ -1,0 +1,12 @@
+.vscode/
+node_modules/
+
+/AdminApi
+/JsonApi
+/JSONDataSupply
+/JSONReports
+/JSONUser
+/JSONUtility
+/KStaticFiles
+
+.env
